@@ -1,10 +1,10 @@
-package com.fakemart;
+package com.nearby;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class FakemartApplicationTests {
+class NearbyApplicationTests {
 
 	@Test
 	void contextLoads() {

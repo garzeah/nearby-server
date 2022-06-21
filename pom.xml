@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com</groupId>
-	<artifactId>fakemart</artifactId>
+	<artifactId>nearby</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>fakemart</name>
+	<name>nearby</name>
 	<description>An e-commerce application that allows users to buy and sell fake products.</description>
 	<properties>
 		<java.version>11</java.version>
