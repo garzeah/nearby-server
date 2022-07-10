@@ -1,4 +1,4 @@
-# nearby
+# Nearby Server
 
 ## Getting Started
 1. Clone repository
