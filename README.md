@@ -1,9 +1,8 @@
 # Nearby Server
 
 ## Getting Started
-1. 3. Install Amazon Corretto 11
-2. Install IntelliJ IDEA
-3. Install Docker
-4. Open Docker
-5. Run the ```docker.compose.yml``` file 
-6. Run the ```NearbyApplication``` file
+1. Install Docker and open it
+2. Install Amazon Corretto 11
+3. Install IntelliJ IDEA and the Docker Plugin
+4. Run the ```docker.compose.yml``` file 
+5. Run the ```NearbyApplication``` file
